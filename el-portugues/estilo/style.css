@@ -1,0 +1,358 @@
+* {
+    font-family: 'Poppins';
+}
+
+.titulo {
+    font-size: 32px;
+    text-decoration: none;
+    color: white;
+    }
+
+.titulo:hover {
+    color: yellow;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+}
+
+.tituloubicacion{
+    color:white;
+
+}
+
+li{
+    margin-left: 30px;
+    color:white;
+    }
+
+.fondo-nav-bar{
+    background-color: #0f0d3e;
+}
+
+.blanco{
+    color:white;
+    font-size: 20px;
+}
+.blanco:hover{
+    color:yellow;
+}
+
+h2 {
+display: flex;
+color:white;
+}
+
+.predio {
+    margin-top: 30px;
+}
+
+p {
+    display: flex;
+    color:white;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.centrar {
+display:flex;
+align-items: center;
+justify-content: center;
+}
+
+.centra {
+    align-items: center;
+    justify-content: center;
+    }
+
+body {
+    background-color:black;
+  }
+
+  
+.carousel {
+width:489px;
+height:600px;
+    } 
+
+
+#section1 {
+    background-image: url(../imagenes/canchasection.jpg);
+    height: 500px;
+    background-position-y: -200px;
+}
+
+.fondoblanco{
+    background-color: white;
+}
+
+footer{
+    background-color: #0f0d3e;
+}
+
+.pfooter1{
+    margin-top: 30px;
+}
+
+.botonenviar{
+    background-color: #0f0d3e;
+    color:white;
+    border-color: #0f0d3e;
+}
+.botonenviar:hover{
+    background-color: #2c27b9;
+    color:white;
+    border-color: #2c27b9;
+}
+
+.canchasf5f9{
+    font-size: 50px;
+    text-shadow: 3px 3px 2px #0f0d3e;
+    font-weight: bold;
+}
+
+.complejo {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    margin-left: 120px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.letranegra{
+    color:black;
+}
+
+.map{
+    height:450px;
+}
+
+.letrathin{
+    font-weight: 150;
+    color: white;
+}
+
+.letrasubtitulo{
+    font-weight: 400;
+    color: white;
+}
+
+#visita{
+    font-size: 30px;
+}
+
+.sacarpuntos{
+    list-style: none;
+}
+
+label{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#botonpadding{
+    padding-top: 18px;
+    padding-bottom: 10px;
+}
+
+iframe{
+    margin: 10px;
+}
+
+#section4{
+    margin-bottom: 20px;
+}
+
+.letratexto{
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 20px;
+}
+
+.letracontacto{
+    font-size: 13px;
+    font-weight: 200;
+    line-height: 20px;
+}
+
+.iconolista {
+    list-style-image: url(../imagenes/pelotalista.png);
+    margin-top: 8px;
+  }
+
+.letraform{
+    color:white;
+    font-size: 18px;
+}
+
+form{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-izquierda{
+    padding-left: 5px;
+}
+
+.form-derecha{
+    padding-right: 5px;
+} 
+
+
+.contacto{
+    display: flex;
+    color:white;
+    margin-top: 4px;
+    margin-bottom: 8px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.contacto:hover{
+    color:yellow;
+}
+
+.formu{
+    color:white;
+    font-size: 15px;
+}
+
+#gracias{
+    color:white;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+orgform{
+    align-items: center;
+justify-content: center;
+}
+
+h3 {
+    display: flex;
+    color:white;
+    font-size: 25px;
+    }
+
+#salir{
+    text-decoration: none;
+    color:rgb(253, 52, 52);
+    background-color: rgb(105, 0, 0);
+}
+#salir:hover{
+    text-decoration: none;
+    color:white;
+    background-color: rgb(105, 0, 0);
+}
+
+#panel{
+    text-decoration: none;
+    color: rgb(255, 255, 53);
+    background-color: rgb(112, 112, 0);
+}
+#panel:hover{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(112, 112, 0);
+}
+
+#abm{
+    text-decoration: none;
+    color: rgb(112, 112, 207);
+    background-color: rgb(0, 0, 119);
+}
+#abm:hover{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 0, 119);
+}
+
+.tabla{
+    border: 2px solid;
+    color: white;
+    width:100%;
+    border-color: white;
+}
+
+.tablita{
+    border: 2px solid;
+    color: white;
+    border-color: white;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    color:  white;
+  }
+
+  tr:nth-child(even) {
+    background-color: rgb(19, 19, 19);
+}
+
+.letrablanca{
+    color:white;
+}
+
+#ok{
+    color: rgb(20, 197, 20);
+}
+
+#error{
+    color:red;
+}
+
+#error1{
+    color:red;
+}
+
+.centrar2{
+    margin: 0 auto;
+}
+
+.tablaAbm td:nth-child(2) {
+    width: 100px;
+  }
+
+.tablaAbm td:nth-child(3) {
+    width: 60px;
+}
+
+.tablaCan td:nth-child(1) {
+    width: 100px;
+  }
+
+.tablaCan td:nth-child(2) {
+    width: 100px;
+}
+
+.tablaCan td:nth-child(3) {
+    width: 60px;
+}
+
+.areaCan {
+    width: 450px;
+    height: 60px;
+  }
+
+.divFormProd{
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;
+  align-items: center"
+}
+
+.formproducto{
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
